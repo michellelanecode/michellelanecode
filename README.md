@@ -17,7 +17,7 @@ Follow me on my journey in Tech! :computer: </p>
 
 #### :mortar_board: [Learning How to Learn Webpage](https://hopeful-heisenberg-d61c41.netlify.app) #### 
 
-This is the first projected for the Practicum by Yandex Web Developer Bootcamp. 
+This is the first project for the Practicum by Yandex Web Developer Bootcamp. 
 Created with: HTML | CSS 
 
 
