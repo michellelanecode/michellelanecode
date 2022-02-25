@@ -15,6 +15,11 @@ Follow me on my journey in Tech! :computer: </p>
 ### Projects Created during Bootcamp ### 
 
 
+#### :airplane: [From Hometown to Hometown](https://michellelanecode.github.io/web_project_3-1/) ####
+
+My first responsive website project created for Practicum by Yandex. 
+
+
 #### :mortar_board: [Learning How to Learn Webpage](https://hopeful-heisenberg-d61c41.netlify.app) #### 
 
 This is the first project for the Practicum by Yandex Web Developer Bootcamp. 
