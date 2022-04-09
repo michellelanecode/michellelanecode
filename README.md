@@ -1,6 +1,6 @@
 
 <p align="center" ><img src="https://github.com/michellelanecode/images/blob/main/Humaaans%20-%20Space.png" width="350" height="456"></p>
-<p align="center" > Enjoying a Butterbeer in Diagon Alley 2021. My first trip to Hogwarts! </p>
+<p align="center" >  </p>
 <br>
 
 ### About Me ###
