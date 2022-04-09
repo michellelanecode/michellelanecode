@@ -17,11 +17,12 @@ Follow me on my journey in Tech! :computer: </p>
 #### 🗺️ [Around The US](https://michellelanecode.github.io/web_project_4/) ####
 
 A responsive site allowing users to add/remove photos and update profile information.  Still in progress :construction:
+Created with HTML||CSS||JS
 
 
 #### :airplane: [From Hometown to Hometown](https://michellelanecode.github.io/web_project_3-1/) ####
 
-My first responsive website project created for Practicum by Yandex. 
+My first responsive website project created for Practicum by Yandex. Created with HTML||CSS
 
 
 #### :mortar_board: [Learning How to Learn Webpage](https://hopeful-heisenberg-d61c41.netlify.app) #### 
