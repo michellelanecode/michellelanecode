@@ -19,7 +19,7 @@ This is a fun, easy project I made using HTML||CSS||JS for the Udacity Front End
 
 #### 🗺️ [Around The US](https://michellelanecode.github.io/web_project_4/) ####
 
-A responsive site allowing users to add/remove photos and update profile information.  Still in progress :construction:
+A responsive site allowing users to add/remove photos and update profile information.
 Created with HTML||CSS||JS
 
 
