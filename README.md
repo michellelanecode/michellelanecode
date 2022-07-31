@@ -6,13 +6,11 @@
 ### About Me ###
 
 <p> I worked in customer service for almost 10 years.<br>
-Now, I'm a software engineering and web development student.<br>
+Now, I'm a junior dev learning and growing in my craft daily.<br>
 Follow me on my journey in Tech! :computer: </p>
 
 ***
-
-
-### Projects Created during Bootcamp ### 
+### Projects I've Created ### 
 
 #### 🎨 [Pixel Art Maker](https://michellelanecode.github.io/Pix-Art-Maker/) ####
 This is a fun, easy project I made using HTML||CSS||JS for the Udacity Front End Web Developer Nanodegree program. 
@@ -39,13 +37,6 @@ Created with: HTML | CSS
 This is a completed project created for the SheCodes Front End Development Course. 
 Created with: HTML | CSS | JS
 
-
-#### :paw_prints: [Udacity Front-End Project 1](https://friendly-kowalevski-99b63b.netlify.app) ####
-
-This is the first project for the Udacity Front-End Web Developer Nanodegree Program
-<br>
-<br>
-### Personal/Side Projects ###
 
 :construction: Coming Soon!!!! :construction:
 
