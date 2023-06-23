@@ -12,31 +12,6 @@ Follow me on my journey in Tech! :computer: </p>
 ***
 ### Projects I've Created ### 
 
-#### 🎨 [Pixel Art Maker](https://michellelanecode.github.io/Pix-Art-Maker/) ####
-This is a fun, easy project I made using HTML||CSS||JS for the Udacity Front End Web Developer Nanodegree program. 
-
-#### 🗺️ [Around The US](https://endearing-concha-7d096a.netlify.app/) ####
-
-A responsive site allowing users to add/remove photos and update profile information.
-Created with HTML||CSS||JS
-
-
-#### :airplane: [From Hometown to Hometown](https://michellelanecode.github.io/web_project_3-1/) ####
-
-My first responsive website project created for Practicum by Yandex. Created with HTML||CSS
-
-
-#### :mortar_board: [Learning How to Learn Webpage](https://hopeful-heisenberg-d61c41.netlify.app) #### 
-
-This is the first project for the Practicum by Yandex Web Developer Bootcamp. 
-Created with: HTML | CSS 
-
-
-#### :partly_sunny: [Weather Application](https://lucid-rosalind-0eea3e.netlify.app) ####
-
-This is a completed project created for the SheCodes Front End Development Course. 
-Created with: HTML | CSS | JS
-
 #### 🪄 [Wands and Dragons](https://wands-dragons-hj072d543-michellelanecode.vercel.app/) ####
 ●	Developed a dynamic web application as part of the Teksystems Full Stack Engineer Bootcamp.
 ●	Collaborated with a team in an Agile environment to create an engaging and interactive experience.
@@ -56,5 +31,36 @@ Created with: HTML | CSS | JS
 ●	Currently working on further enhancements and improvements to the project.
 
 
+#### 🎨 [Pixel Art Maker](https://michellelanecode.github.io/Pix-Art-Maker/) ####
+This is a fun, easy project I made using HTML||CSS||JS for the Udacity Front End Web Developer Nanodegree program. 
+
+#### 🗺️ [Around The US](https://endearing-concha-7d096a.netlify.app/) ####
+
+A responsive site allowing users to add/remove photos and update profile information.
+Created with HTML||CSS||JS
+
+
+#### :airplane: [From Hometown to Hometown](https://michellelanecode.github.io/web_project_3-1/) ####
+
+●	Developed a responsive web page using HTML and CSS.
+●	Successfully completed the project independently, showcasing strong problem-solving and technical skills.
+●	Underwent thorough code reviews conducted by senior developers as part of the Practicum (TripleTen) software engineering bootcamp.
+●	Demonstrated the ability to adapt to industry best practices and incorporate feedback to improve code quality and maintainability
+
+
+
+#### :mortar_board: [Learning How to Learn Webpage](https://hopeful-heisenberg-d61c41.netlify.app) #### 
+
+●	Developed the initial project as part of the Practicum Software Engineering bootcamp.
+●	Utilized HTML and CSS to create a functional web application.
+●	Demonstrated proficiency in fundamental web development languages and techniques.
+●	Although the project is not currently fully responsive, it served as a valuable learning experience to enhance skills in creating responsive designs.
+●	The code underwent comprehensive reviews by senior developers, providing valuable insights and guidance for improvement.
+
+
+#### :partly_sunny: [Weather Application](https://lucid-rosalind-0eea3e.netlify.app) ####
+
+This is a completed project created for the SheCodes Front End Development Course. 
+Created with: HTML | CSS | JS
 :construction: Coming Soon!!!! :construction:
 
